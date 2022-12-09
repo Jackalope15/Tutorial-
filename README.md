@@ -1,6 +1,11 @@
 # Understanding Digital Storage Tutorial-
-A tutorial of understanding basic Digital Storage by Jack Winters for novice IT Students
-========================================================================================
+A tutorial of understanding basic Digital Storage 
+=================================================
+
+By Jack Winters
+===============
+This Tutorial is For Novice IT Students looking for a basic understanding of Digital Storage
+============================================================================================
 <h1>Basic compomponets of Digital Storage</h1>
 <ol>
 <li>Capacity- the amount of data the medium can hold</li>
